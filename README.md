@@ -1,4 +1,4 @@
 # Safetaxi
 
-ya jala
+no jala
 
