@@ -7,6 +7,8 @@ import { InformacionComponent } from './informacion/informacion.component';
 import { PrincipalComponent } from './principal/principal.component';
 import { RegistroUsuarioComponent } from './registro-usuario/registro-usuario.component';
 import { RegistroConductorComponent } from './registro-conductor/registro-conductor.component';
+import { LoginComponent } from './login/login.component';
+import { TaxistasComponent } from './taxistas/taxistas.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +16,9 @@ import { RegistroConductorComponent } from './registro-conductor/registro-conduc
     InformacionComponent,
     PrincipalComponent,
     RegistroUsuarioComponent,
-    RegistroConductorComponent
+    RegistroConductorComponent,
+    LoginComponent,
+    TaxistasComponent
   ],
   imports: [
     BrowserModule,
